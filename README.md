@@ -67,34 +67,17 @@ focus:
 
 ---
 
-## 🚀 FEATURED PROJECTS
+## 🚀 PROJECTS
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3>🏡 Airbnb Clone</h3>
-      <p>A full-stack marketplace web application features search functionality, user authentication, and booking systems built with the MERN stack.</p>
-      <p><code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>Express</code></p>
-    </td>
-    <td width="50%">
-      <h3>🎵 Spotify Clone</h3>
-      <p>An interactive, pixel-perfect dynamic music player application built with custom audio controls and fully responsive design layouts.</p>
-      <p><code>React</code> <code>TailwindCSS</code> <code>Context API</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🧪 Periodic Table Web App</h3>
-      <p>An educational interactive dashboard showcasing chemistry element trends, properties, and structural breakdowns dynamically.</p>
-      <p><code>JavaScript</code> <code>HTML5</code> <code>CSS3 Grid</code></p>
-    </td>
-    <td width="50%">
-      <h3>🌐 Portfolio Website</h3>
-      <p>My interactive cyber-themed professional digital playground designed to display modern sleek animations and complete responsive styling layouts.</p>
-      <p><code>React</code> <code>Framer Motion</code></p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+| 🛠️ Application Name | 🧪 Application Name |
+| :--- | :--- |
+| <code>🏡 Airbnb Clone</code> | <code>🎵 Spotify Clone</code> |
+| <code>🧪 Periodic Table Web App</code> | <code>🌐 Portfolio Website</code> |
+| <code>🎮 Simon Says Game</code> | |
+
+</div>
 
 ---
 
