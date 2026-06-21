@@ -1,133 +1,138 @@
-
 <!-- ================= CYBER HEADER ================= -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,25:1a0533,50:2d0a5e,75:3b0a72,100:00f5ff&height=220&section=header&text=Rimi%20Soni&fontSize=70&fontColor=00f5ff&fontAlignY=40&desc=Code%20%7C%20Build%20%7C%20Innovate%20🚀&descSize=16&descAlignY=60" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,25:1a0533,50:2d0a5e,75:3b0a72,100:00f5ff&height=220&section=header&text=Rimi%20Soni&fontSize=65&fontColor=00f5ff&fontAlignY=40&desc=Code%20%7C%20Build%20%7C%20Innovate%20🚀&descSize=16&descAlignY=60" />
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=00F5FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+%7C+MERN+Engineer;DSA+Strong+%7C+Problem+Solver;Frontend+%7C+Backend+Builder;Clean+Code+%7C+System+Thinking" />
-<br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=00F5FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+%7C+MERN+Engineer;DSA+Strong+%7C+Problem+Solver;Frontend+%7C+Backend+Builder;Clean+Code+%7C+System+Thinking" />
+  <br/>
 
-<img src="https://komarev.com/ghpvc/?username=rimisoni22-ux&label=PROFILE+VIEWS&color=00f5ff&style=flat-square" />
-<img src="https://img.shields.io/github/followers/rimisoni22-ux?label=FOLLOWERS&color=7c3aed&style=flat-square" />
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-00f5ff?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=rimisoni22-ux&label=PROFILE+VIEWS&color=00f5ff&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/rimisoni22-ux?label=FOLLOWERS&color=7c3aed&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-00f5ff?style=for-the-badge" />
 </div>
 
 ---
 
-# 👩‍💻 ABOUT ME 
+## 👩‍💻 ABOUT ME 
 
-```yaml
+<table align="center" width="100%">
+  <tr>
+    <td width="55%" valign="top">
+      <p>Hey there! I am a passionate <b>Full Stack MERN Developer</b> who thrives on building scalable web applications and solving complex engineering problems.</p>
+      <p>With a strong foundation in Data Structures & Algorithms and an eye for clean code architecture, I bridge the gap between creative user interfaces and robust backend systems.</p>
+      <p>💡 <i>"Turning coffee into clean, efficient, and interactive production-ready applications."</i></p>
+    </td>
+    <td width="45%" valign="top">
+      <pre lang="yaml">
 name: Rimi Soni
 role: Full Stack Developer (MERN)
-
 mindset:
   - Build scalable apps 🚀
   - Solve DSA problems 🧠
   - Think like an engineer 💡
-
 focus:
   - Frontend Development 🎨
   - Backend Engineering ⚙️
-  - Problem Solving 🧩
-````
+      </pre>
+    </td>
+  </tr>
+</table>
 
 ---
 
-# ⚡ TECH STACK
-
----
-
-## 🎨 FRONTEND
+## ⚡ TECH STACK
 
 <div align="center">
 
-![HTML](https://img.shields.io/badge/HTML5-ff4dff?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-00f5ff?style=for-the-badge\&logo=css3\&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-ffd93d?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-7c3aed?style=for-the-badge\&logo=react\&logoColor=white)
+| Layer | Technologies |
+| :--- | :--- |
+| **🎨 FRONTEND** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
+| **⚙️ BACKEND** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+| **🗄️ DATABASE** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white) |
 
 </div>
 
 ---
 
-## ⚙️ BACKEND
+## 🧠 CODING PROFILE
+
+<div align="center">
+  <a href="https://leetcode.com">
+    <img src="https://img.shields.io/badge/LeetCode-150%2B%20Solved-ff9f1c?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.codechef.com">
+    <img src="https://img.shields.io/badge/CodeChef-50%2B%20Solved-7c3aed?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+</div>
+
+---
+
+## 🚀 FEATURED PROJECTS
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3>🏡 Airbnb Clone</h3>
+      <p>A full-stack marketplace web application features search functionality, user authentication, and booking systems built with the MERN stack.</p>
+      <p><code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>Express</code></p>
+    </td>
+    <td width="50%">
+      <h3>🎵 Spotify Clone</h3>
+      <p>An interactive, pixel-perfect dynamic music player application built with custom audio controls and fully responsive design layouts.</p>
+      <p><code>React</code> <code>TailwindCSS</code> <code>Context API</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🧪 Periodic Table Web App</h3>
+      <p>An educational interactive dashboard showcasing chemistry element trends, properties, and structural breakdowns dynamically.</p>
+      <p><code>JavaScript</code> <code>HTML5</code> <code>CSS3 Grid</code></p>
+    </td>
+    <td width="50%">
+      <h3>🌐 Portfolio Website</h3>
+      <p>My interactive cyber-themed professional digital playground designed to display modern sleek animations and complete responsive styling layouts.</p>
+      <p><code>React</code> <code>Framer Motion</code></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 STATS & CONTRIBUTIONS
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=rimisoni22-ux&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+      </td>
+      <td>
+        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=rimisoni22-ux&theme=tokyonight&hide_border=true" />
+      </td>
+    </tr>
+  </table>
+  <br/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rimisoni22-ux&theme=react-dark&hide_border=true" />
+</div>
+
+---
+
+## 🤝 CONNECT WITH ME
 
 <div align="center">
 
-![Node.js](https://img.shields.io/badge/Node.js-00ff99?style=for-the-badge\&logo=node.js\&logoColor=black)
-![Express](https://img.shields.io/badge/Express-ffffff?style=for-the-badge\&logo=express\&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ff4d4d?style=for-the-badge\&logo=java\&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rimi-soni-638810330)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rimisoni22-ux)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rimonisi22@gmail.com)
 
 </div>
 
 ---
 
-## 🗄️ DATABASE
-
 <div align="center">
 
-![MongoDB](https://img.shields.io/badge/MongoDB-00ff99?style=for-the-badge\&logo=mongodb\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-00f5ff?style=for-the-badge\&logo=mysql\&logoColor=black)
-
-</div>
-
----
-
-# 🧠 CODING PROFILE
-
-<div align="center">
-
-![LeetCode](https://img.shields.io/badge/LeetCode-150%2B%20Solved-ff9f1c?style=for-the-badge\&logo=leetcode)
-![CodeChef](https://img.shields.io/badge/CodeChef-50%2B%20Solved-7c3aed?style=for-the-badge\&logo=codechef)
-
-</div>
-
----
-
-# 📊 GITHUB STATS
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=rimisoni22-ux&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rimisoni22-ux&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 📈 CONTRIBUTION GRAPH
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rimisoni22-ux&theme=react-dark&hide_border=true" />
-
-</div>
-
----
-# 🚀 PROJECTS
-
-* 🧪 Periodic Table Web App
-* 🎵 Spotify Clone
-* 🎮 Simon Says Game
-* 🏡 Airbnb Clone
-* 🌐 Portfolio Website
-
----
-
-# 🤝 CONNECT
-
-* 💼 LinkedIn: [https://www.linkedin.com/in/rimi-soni-638810330](https://www.linkedin.com/in/rimi-soni-638810330)
-* 💻 GitHub: [https://github.com/rimisoni22-ux](https://github.com/rimisoni22-ux)
-* 📧 Email: mailto:rimonisi22@gmail.com
-
----
-
-<div align="center">
-
-## “Build. Break. Learn. Repeat.” 
+### “Build. Break. Learn. Repeat.” 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,25:1a0533,50:2d0a5e,75:3b0a72,100:00f5ff&height=120&section=footer"/>
 
 </div>
-
